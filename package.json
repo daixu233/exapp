@@ -2,7 +2,7 @@
   "name": "sell",
   "version": "1.0.0",
   "description": "sell app",
-  "author": "lzy",
+  "author": "zzl",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
